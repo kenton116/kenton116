@@ -51,7 +51,7 @@ N予備校でプログラミングを勉強しています。
 ## 私のアカウント
 
 - [Twitter](https://twitter.com)
-- [スクラッチ](https://scratch.mit.edu/users/kentune)
+- [Scratch](https://scratch.mit.edu/users/kentune)
 - [GitHub](https://github.com/kenton116)
 
 よろしくお願いします!!
