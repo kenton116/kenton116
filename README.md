@@ -41,17 +41,17 @@ N予備校でプログラミングを勉強しています。
 
 ↓私のポートフォリオサイト!
 
-[ポートフォリオはこちら!]（https://kenton116.github.io）
+[ポートフォリオはこちら!](https://kenton116.github.io)
 
 ## 作品
 
--[あなたのいいところ診断ゲーム]（https://kenton116.github.io/assessment/assessment.html）
--[Web World Traveler]（https://kenotn116.github.io/WebWorldTraveler）
+- [あなたのいいところ診断ゲーム](https://kenton116.github.io/assessment/assessment.html)
+- [Web World Traveler](https://kenotn116.github.io/WebWorldTraveler)
 
 ## 私のアカウント
 
-- [Twitter]（https://twitter.com）
-- [スクラッチ]（https://scratch.mit.edu/users/kentune）
-- [GitHub]（https://github.com/kenton116）
+- [Twitter](https://twitter.com)
+- [スクラッチ](https://scratch.mit.edu/users/kentune)
+- [GitHub](https://github.com/kenton116)
 
 よろしくお願いします!!
