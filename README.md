@@ -17,7 +17,7 @@ Recently I've been learning Github skills.
 ## Works
 
 - [Assessment Game](https://kenton116.github.io/assessment/assessment.html)
-- [Web World Traveler](https://kenotn116.github.io/WebWorldTraveler)
+- [Web World Traveler](https://kenton116.github.io/WebWorldTraveler)
 
 ## My account
 
@@ -46,7 +46,7 @@ N予備校でプログラミングを勉強しています。
 ## 作品
 
 - [あなたのいいところ診断ゲーム](https://kenton116.github.io/assessment/assessment.html)
-- [Web World Traveler](https://kenotn116.github.io/WebWorldTraveler)
+- [Web World Traveler](https://kenton116.github.io/WebWorldTraveler)
 
 ## 私のアカウント
 
