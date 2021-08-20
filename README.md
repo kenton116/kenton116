@@ -21,7 +21,6 @@ Recently I've been learning Github skills.
 
 ## My account
 
-- [Twitter](https://twitter.com)
 - [Scratch](https://scratch.mit.edu/users/kentune)
 - [GitHub](https://github.com/kenton116)
 
@@ -50,7 +49,6 @@ N予備校でプログラミングを勉強しています。
 
 ## 私のアカウント
 
-- [Twitter](https://twitter.com)
 - [Scratch](https://scratch.mit.edu/users/kentune)
 - [GitHub](https://github.com/kenton116)
 
