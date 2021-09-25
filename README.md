@@ -10,14 +10,12 @@ I'm studying programming at N Preparatory School.
 
 Recently I've been learning Github skills.
 
-↓ My portfolio!
-
-[Click here for portfolio!](https://kenton116.github.io)
-
 ## Works
 
 - [Assessment Game](https://kenton116.github.io/assessment/assessment.html)
-- [Web World Traveler](https://kenton116.github.io/WebWorldTraveler)
+- [Favorite PictureViewer](https://kenton116.github.io/Favorite-PictureViewer)
+- [DINO-ADVENTURE](https://kenton116.github.io/DINO-ADVENTURE)
+- [Chat-per-person](https://github.com/kenton116/Chat-per-person)
 
 ## My account
 
@@ -36,16 +34,14 @@ Thank you!!
 
 N予備校でプログラミングを勉強しています。
 
-最近、Githubのスキルを学んでいます。
-
-↓私のポートフォリオサイト!
-
-[ポートフォリオはこちら!](https://kenton116.github.io)
+最近、Githubを学んでいます。
 
 ## 作品
 
 - [あなたのいいところ診断ゲーム](https://kenton116.github.io/assessment/assessment.html)
-- [Web World Traveler](https://kenton116.github.io/WebWorldTraveler)
+- [Favorite PictureVIewer](https://kenton116.github.io/Favorite-PictureViewer)
+- [DINO-ADVENTURE](https://kenton116.github.io/DINO-ADVENTURE)
+- [お一人様チャット](https://github.com/kenton116/Chat-per-person)
 
 ## 私のアカウント
 
