@@ -16,6 +16,7 @@ Recently I've been learning Github skills.
 - [Favorite PictureViewer](https://kenton116.github.io/Favorite-PictureViewer)
 - [DINO-ADVENTURE](https://kenton116.github.io/DINO-ADVENTURE)
 - [Chat-per-person](https://github.com/kenton116/Chat-per-person)
+- [break-the-blocks](https://kenton116.github.io/break-the-blocks)
 
 ## My account
 
@@ -42,6 +43,7 @@ N予備校でプログラミングを勉強しています。
 - [Favorite PictureVIewer](https://kenton116.github.io/Favorite-PictureViewer)
 - [DINO-ADVENTURE](https://kenton116.github.io/DINO-ADVENTURE)
 - [お一人様チャット](https://github.com/kenton116/Chat-per-person)
+- [ブロック崩し](https://kenton116.github.io/break-the-blocks)
 
 ## 私のアカウント
 
