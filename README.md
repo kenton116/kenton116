@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+## Site
+
+[MyPortfolio](https://kenton116.shop)
+
 ## About
 
 I like programming.
@@ -14,12 +18,17 @@ Recently I've been learning Github skills.
 
 - [Scratch](https://scratch.mit.edu/users/kentune)
 - [GitHub](https://github.com/kenton116)
+- [Qiita](https://qiita.com/kenton116)
 
 Thank you!!
 
 # JP
 
 ### こんにちは👋
+
+## 私のポートフォリオサイト
+
+[MyPortfolio](https://kenton116.shop)
 
 ## 私について
 
@@ -33,5 +42,6 @@ N予備校でプログラミングを勉強しています。
 
 - [Scratch](https://scratch.mit.edu/users/kentune)
 - [GitHub](https://github.com/kenton116)
+- [Qiita](https://qiita.com/kenton116)
 
 よろしくお願いします!!
