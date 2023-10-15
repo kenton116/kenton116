@@ -12,6 +12,6 @@
 
 ## skill
 
-language : Javascript Flutter Dart Python Swift Kotlin HTML Markdown Pug CSS
+language : Javascript React HTML Markdown Pug CSS Flutter Dart
 
-Tool : Linux Docker Git Github Heroku Qiita PostgreSQL etc ...
+Tool : Linux Docker Git Github Heroku Qiita PostgreSQL Firebase etc ...
